@@ -1,5 +1,7 @@
 # Getting Started with Create React App
-![image](https://github.com/DianaSerban03/LIBRARY---MANAGEMENT---frontend/assets/103881695/4aedde91-2eb1-4a9d-adf7-a8b10b20cede)
+![image](https://github.com/DianaSerban03/LIBRARY---MANAGEMENT---frontend/assets/103881695/cb471831-88fe-4537-9b0b-1125ff7065b0)
+![image](https://github.com/DianaSerban03/LIBRARY---MANAGEMENT---frontend/assets/103881695/77817518-4811-44fb-a62a-2d18096d39aa)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
